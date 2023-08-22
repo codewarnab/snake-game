@@ -6,7 +6,7 @@ Embark on a retro gaming adventure with "Slithering Snake." Navigate a growing s
 
 ## Demo
 
-![DEMO](snake-game/demo.mp4)
+![DEMO](demo.jpg)
 
 
 
