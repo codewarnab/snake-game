@@ -6,7 +6,7 @@ Embark on a retro gaming adventure with "Slithering Snake." Navigate a growing s
 
 ## Demo
 
-<iframe src="https://blacknut1803.github.io/snake-game/demo" width="600" height="400"></iframe>
+![DEMO](demo.mp4)
 
 
 
