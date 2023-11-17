@@ -17,7 +17,7 @@ Embark on a retro gaming adventure with "Slithering Snake." Navigate a growing s
 
 ## Authors
 
-- [@blacknut1803](https://www.github.com/blacknut1803)
+- [@blacknut1803](https://www.github.com/codewarnab)
 
 
 ## Contributing
